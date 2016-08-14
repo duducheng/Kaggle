@@ -1,0 +1,4 @@
+data
+.ipynb_checkpoints
+.gl_checkpoints
+*.pyc
